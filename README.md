@@ -18,9 +18,8 @@
 
 <h2>For run this project</h2>
 <h4>I developed this project with Flutter Version 3.0.0 (Use Flutter Version 3.0.0)</h4>
-<h4>For run you can use your physcial device or emulator (Dont use old emulators)</h4>
+<h4>For run you can use your physical device or emulator (Dont use old emulators)</h4>
 <h4>Open this project on code editor and just type this on the command line "flutter run"</h4>
-<br>
 
 # 📸 Photos of the app  📸
 
