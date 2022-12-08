@@ -22,6 +22,8 @@
 <h4>Open this project on code editor and just type this on the command line "flutter run"</h4>
 <br> <br>
 
+<h2> 📸 Photos of the app  📸</h2>
+
 <p float="left">
   <img src="https://github.com/ElifYu/dexter_case/blob/3fa66c8a0c5061f118ecb3b5d082c3deaa971430/assets/image10.jpeg" width="20%"/>
   <img src="https://github.com/ElifYu/dexter_case/blob/3fa66c8a0c5061f118ecb3b5d082c3deaa971430/assets/image8.jpeg" width="20%"/>
