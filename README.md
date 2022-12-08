@@ -12,6 +12,7 @@
   <li>Nurses can see all tasks, morning, evening, night and completed tasks</li>
   <li>If they marked one task completed, they can return back (Mark Done - false)</li>
     <li>They can update tasks</li>
+    <li>Also nurses can add time to see which task should do and when</li>
     <li>And nurses can logout for this app</li>
 </ol>  
 
