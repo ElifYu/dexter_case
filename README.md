@@ -16,6 +16,10 @@
     <li>And nurses can logout for this app</li>
 </ol>  
 
+<h2>For run this project</h2>
+<h3>I developed this project with Flutter Version 3.0.0 (Use Flutter Version 3.0.0)</h3>
+<h3>For run you can use your physcial device or emulator (Dont use old emulators)</h3>
+<h3>Open this project on code editor and just type this on the command line "flutter run"/h3>
 
 <p float="left">
   <img src="https://github.com/ElifYu/dexter_case/blob/3fa66c8a0c5061f118ecb3b5d082c3deaa971430/assets/image10.jpeg" width="20%"/>
