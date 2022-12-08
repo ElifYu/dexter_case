@@ -20,9 +20,9 @@
 <h4>I developed this project with Flutter Version 3.0.0 (Use Flutter Version 3.0.0)</h4>
 <h4>For run you can use your physcial device or emulator (Dont use old emulators)</h4>
 <h4>Open this project on code editor and just type this on the command line "flutter run"</h4>
-<br> <br>
+<br>
 
-<h2> 📸 Photos of the app  📸</h2>
+# 📸 Photos of the app  📸
 
 <p float="left">
   <img src="https://github.com/ElifYu/dexter_case/blob/3fa66c8a0c5061f118ecb3b5d082c3deaa971430/assets/image10.jpeg" width="20%"/>
