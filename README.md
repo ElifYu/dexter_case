@@ -4,12 +4,15 @@
 <h2>About Dexter Task</h2>
 
 <ol>
-  <li>User can sign in & sign up</li>
+  <li>Nurses can sign in & sign up</li>
   <li>In sign up nurses can select their shifts</li>
-  <li>Every nurse can use this app together, ever nurse can add a new task and other nurses can see this task</li>
+  <li>Every nurse can use this app together, can add a new task and other nurses can see this task (Every nurse have access to change something on this task)</li>
   <li>When one nurse changed in one task something, on card you can see who is changed this task lastly</li>
   <li>Every task can assign to other shifts</li>
-
+  <li>Nurses can see all tasks, morning, evening, night and completed tasks</li>
+  <li>If they marked one task completed, they can return back (Mark Done - false)</li>
+    <li>They can update tasks</li>
+    <li>And nurses can logout for this app</li>
 </ol>  
 
 
