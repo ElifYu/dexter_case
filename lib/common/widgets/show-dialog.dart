@@ -30,7 +30,7 @@ showModalBottomSheetCustom({
       ),
       builder: (BuildContext context) {
         return FractionallySizedBox(
-          heightFactor: 0.8,
+          heightFactor: 0.6,
           child: Container(
               decoration: BoxDecoration(
                 color: Colors.white,

@@ -22,6 +22,7 @@ class AuthController extends GetxController {
   User get user => _user.value!;
 
 
+
   @override
   void onReady() {
     super.onReady();
@@ -126,7 +127,7 @@ class AuthController extends GetxController {
       }
     } catch (e) {
       Get.snackbar(
-        'Error Loggin gin',
+        'Error Log in',
         e.toString(),
       );
     }
@@ -138,6 +139,7 @@ class AuthController extends GetxController {
         .collection('users')
         .doc(authController.user.uid)
         .get().then((DocumentSnapshot value) {
+          print(value);
           userModel = UserModel.fromSnap(value);
           return userModel;
         });
@@ -145,5 +147,6 @@ class AuthController extends GetxController {
   }
   void signOut() async {
     await firebaseAuth.signOut();
+
   }
 }

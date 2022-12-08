@@ -91,7 +91,7 @@ class _SignupScreenState extends State<SignupScreen> {
                 const SizedBox(
                   height: 15,
                 ),
-                commonInput(
+                commonInputSecond(
                     obsText: false,
                     keyBoardTyp: TextInputType.text,
                     hintText: 'Name & Surname *',
@@ -183,12 +183,15 @@ class _SignupScreenState extends State<SignupScreen> {
                     ),
                     InkWell(
                       onTap: () => Get.back(),
-                      child: Text(
-                        'Sign in',
-                        style: TextStyle(
-                            fontSize: 19,
-                            color: appColor,
-                            fontWeight: FontWeight.bold),
+                      child: Padding(
+                        padding: const EdgeInsets.all(8.0),
+                        child: Text(
+                          'Sign in',
+                          style: TextStyle(
+                              fontSize: 19,
+                              color: appColor,
+                              fontWeight: FontWeight.bold),
+                        ),
                       ),
                     ),
                   ],
